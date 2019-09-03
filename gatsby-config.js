@@ -48,11 +48,18 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: `https://mariana-parsely.netlify.com`,
+        enableInDevelopment: false // send page views when NODE_ENV !== prod
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
-    },
+   },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
