@@ -1,17 +1,13 @@
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "NewsArticle",
-    "headline": "Blog version V-1.1",
-    "url": "https://mariana-parsely.netlify.com/",
-    "thumbnailUrl": "https://mariana-parsely.netlify.com/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg",
-    "datePublished": "2019-09-01T13:00:00Z",
-    "articleSection": "Newspaper",
-    "creator": ["Mariana Guzman Ruiz"],
-    "keywords": ["statistics","zipf","internet","behavior"]
-  }
-</script>
+---
+author: "Mariana Guzman"
+date: "2019-08-12T15:04:10.000Z"
+description: "Homage to Hofstadter"
+section: "Metadata"
+url: "https://mariana-parsely.netlify.com/hello-world/",
+thumbnail: "https://mariana-parsely.netlify.com/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg"
+title: "An exploration of metadata"
+type: "BlogPosting"
+---
 
 This is my first post on my new fake blog! How exciting!
 

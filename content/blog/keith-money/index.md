@@ -1,17 +1,14 @@
+---
+author: "Mariana Guzman"
+date: "2019-08-12T15:04:10.000Z"
+description: "Keith Money"
+section: "Metadata"
+url: "https://mariana-parsely.netlify.com/keith-money/",
+thumbnail: "https://mariana-parsely.netlify.com/static/409b828c84b3b1f59f9005b7cbc734d6/c5296/keithmoney.png"
+title: "An exploration of metadata"
+type: "BlogPosting"
+---
 
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "NewsArticle",
-    "headline": "Blog version V-1.1",
-    "url": "https://mariana-parsely.netlify.com/keith-money/",
-    "thumbnailUrl": "https://mariana-parsely.netlify.com/static/409b828c84b3b1f59f9005b7cbc734d6/c5296/keithmoney.png",
-    "datePublished": "2019-09-01T13:00:00Z",
-    "articleSection": "Newspaper",
-    "creator": ["Mariana Guzman Ruiz"],
-    "keywords": ["statistics","zipf","internet","behavior"]
-  }
-</script>
 
 `money` is a valid top-level domain! Check out [keith.money](http://keith.money/) the unofficial blog of [Parse.ly's VP of Engineering](https://www.parse.ly/about/keith_bourgoin/)
 

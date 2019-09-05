@@ -1,12 +1,12 @@
 ---
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
-section:
-tags:
-  - story
-thumbnail:
-title: New Beginnings in Alphabet City
-type: BlogPosting
+author: "Mariana Guzman"
+date: "2019-08-12T15:04:10.000Z"
+description: "Homage to Hofstadter"
+section: "Metadata"
+url: "https://mariana-parsely.netlify.com/new-beginnings/",
+thumbnail: "https://mariana-parsely.netlify.com/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg"
+title: "An exploration of metadata"
+type: "BlogPosting"
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

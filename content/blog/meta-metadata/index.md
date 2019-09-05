@@ -1,13 +1,12 @@
 ---
-author: T.H. Ismeta
+author: "Mariana Guzman"
 date: "2019-08-12T15:04:10.000Z"
-description: Homage to Hofstadter
-section: Metadata
-tags:
-  - metadata
-thumbnail:
-title: An exploration of metadata
-type: BlogPosting
+description: "Homage to Hofstadter"
+section: "Metadata"
+url: "https://mariana-parsely.netlify.com/",
+thumbnail: "https://mariana-parsely.netlify.com/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg"
+title: "An exploration of metadata"
+type: "BlogPosting"
 ---
 
 Metadata is data that provides information about other data.
